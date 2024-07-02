@@ -19,7 +19,7 @@ This project is an AI-powered chatbot developed using the Streamlit framework in
 ## How to Use
 
  **Clone the Repository**:
-git clone https://github.com/yourusername/ai-chatbot-with-streamlit.git
+git clone https://github.com/GantaGreshma26/ai-chatbot-with-streamlit.git
 
 **Navigate to the Project Directory**:
 cd ai-chatbot-with-streamlit
@@ -35,7 +35,7 @@ streamlit run app.py
 ## Contributing
 We welcome contributions to enhance the functionality and features of this project. If you would like to contribute, please follow these steps:
 **Clone the repository**:
-git clone https://github.com/yourusername/ai-chatbot-with-streamlit.git
+git clone https://github.com/GantaGreshma26/ai-chatbot-with-streamlit.git
 cd ai-chatbot-with-streamlit
 
 **Create a new branch for your feature**
