@@ -17,39 +17,35 @@ This project is an AI-powered chatbot developed using the Streamlit framework in
 - Additional dependencies listed in `requirements.txt`
 
 ## How to Use
-```bash
-# Clone the Repository:
+
+ **Clone the Repository**:
 git clone https://github.com/yourusername/ai-chatbot-with-streamlit.git
 
-# Navigate to the Project Directory:
+**Navigate to the Project Directory**:
 cd ai-chatbot-with-streamlit
 
-# Install Dependencies:
+**Install Dependencies**:
 pip install -r requirements.txt
 
-# Run the Streamlit App:
+**Run the Streamlit App**:
 streamlit run app.py
 
-# Enter OpenAI API Key: On the web interface, input your OpenAI API key to start interacting with the chatbot.
+**Enter OpenAI API Key**: On the web interface, input your OpenAI API key to start interacting with the chatbot.
 
 ## Contributing
 We welcome contributions to enhance the functionality and features of this project. If you would like to contribute, please follow these steps:
-
-```bash
-# Fork the repository.
+**Clone the repository**:
 git clone https://github.com/yourusername/ai-chatbot-with-streamlit.git
 cd ai-chatbot-with-streamlit
 
-# Create a new branch:
+**Create a new branch for your feature**
 git checkout -b feature-branch
 
-# Make your changes and commit them:
-git commit -am 'Add some feature'
+**Make your changes, add files, and commit**
+git add .
+git commit -m 'Add your feature or fix'
 
-# Push to the branch:
+**Push your changes to your fork**
 git push origin feature-branch
 
-# Create a new Pull Request via GitHub.
-
-
-
+Submit a pull request on GitHub
